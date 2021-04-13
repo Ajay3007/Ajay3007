@@ -30,14 +30,7 @@ Apart from that I love to learn new programming languages and technologies and s
 
 ## &#x1f4c8; My GitHub Stats
 
-<a href="https://github.com/Ajay3007/Ajay3007">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajay3007&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/Ajay3007/Ajay3007">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ajay3007&show_icon=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Ajay's GotHub Stats" />
-</a>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajay3007)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajay3007&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
