@@ -32,6 +32,7 @@ Apart from that I love to learn new programming languages and technologies and s
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajay3007&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ajay3007&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Ajay3007/Ajay3007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
