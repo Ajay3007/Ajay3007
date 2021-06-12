@@ -1,5 +1,5 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ajay Kumar Gupt!
-[![Twitter Follow](https://img.shields.io/twitter/follow/4j4ycfd?label=Follow%20me%20on%20tweeter&style=social)](https://twitter.com/intent/follow?screen_name=4j4ycfd)
+[![Twitter Follow](https://img.shields.io/twitter/follow/4j4ycfd?label=Follow%20me%20on%20tweeter&style=social)](https://twitter.com/intent/follow?screen_name=aj)
 
 I am a Software Engineer specializing in C++, Java and Python. I like working on large scale applications in Software Development and Android Development.
 
