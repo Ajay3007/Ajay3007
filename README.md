@@ -1,59 +1,127 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ajay Kumar Gupt!
+<!-- HEADER BANNER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066FF,100:00CCFF&height=200&section=header&text=Ajay%20Kumar%20Gupt%20👋&fontSize=42&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+</div>
 
-Results-driven Software Engineer with 4+ years of experience designing and optimizing **high-performance distributed** and backend systems using **C, C++, Java, and DPDK**. Skilled in building low-latency microservices and scalable data pipelines leveraging **Redis, Kafka, and Aerospike**, achieving measurable throughput and latency improvements across production-grade platforms. Strong foundation in **system design, concurrency, and performance optimization**, with a proven record of delivering fault-tolerant, large-scale services.
+<h2 align="center">Software Engineer — High-Performance Backend | Distributed Systems | Networking | DPDK</h2>
 
-***
-<p>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="Shell Script" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" alt="Kafka" width="55" height="55"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" alt="Redis" width="55" height="55"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/aerospike/aerospike-original.svg" alt="Aerospike" width="55" height="55"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" alt="REST APIs" width="55" height="55"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="55" height="55"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" width="55" height="55"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="55" height="55"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="55" height="55"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" alt="CI/CD" width="55" height="55"/>
+<p align="center">
+  Building real-time, low-latency, fault-tolerant systems that power nationwide-scale platforms.
 </p>
+
+---
+
+## 👨‍💻 About Me
+- 🏢 **Software Engineer (Manager) @ Jio Platforms Ltd., Navi Mumbai**  
+- 🎓 **IIT (BHU) Varanasi — Electronics Engineering**  
+- ⚡ 4+ years designing **high-throughput backend systems** in **C/C++**, **Java**, **DPDK**, **Kafka**, **Redis**, **Aerospike**
+- 🚀 Experienced in **DPI engines, microservices, IoT SCEF nodes, distributed caching, and system design**
+- 🔍 Currently exploring **VPP**, **Linux networking internals**, and **deep C++ modern features**
+- 📈 Passionate about **low-latency architectures, packet processing, and large-scale distributed systems**
+
+---
 
 ## 🛠️ Technical Skills
 
 ### **Programming**
-`C` · `C++` · `Java` · `Python` · `Shell` · `SQL`
+<p>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="50"/>
+</p>
 
 ### **Technologies**
-`DPDK` · `Kafka` · `Redis Cluster` · `Aerospike`  
-`REST APIs` · `HTTP/HTTPS`
+<p>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" width="55"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" width="55"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/aerospike/aerospike-original.svg" width="55"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" width="55"/>
+</p>
 
-### **Tools & Platforms**
-`Linux` · `Docker` · `Git` · `Kubernetes` · `Wireshark` · `CI/CD`
+### **Platforms & Tools**
+<p>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="55"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="55"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="55"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" width="55"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" width="55"/>
+</p>
 
 ### **Focus Areas**
-`Distributed Systems` · `System Design` · `Microservices` · `DSA`
-
-
-***
-
-📺 My Youtube Channels
-
-▶️ [...For my Youtube channel](https://www.youtube.com/channel/UCo6VyFLg3nyXYTwpdry1Kkg)
-
-
-***
-
-📘 IIT BHU GSOC Learning Platform
-
-▶️ [...IIT BHU GSOC Page](https://www.notion.so/CSOC-2020-Dev-0f384f652ab2462f9102d59f6a747cd5)
+`Distributed Systems` · `System Design` · `Microservices` · `DPDK` · `Networking` · `Data Structures & Algorithms`  
 
 ---
 
-## &#x1f4c8; My GitHub Stats
+## 🚀 Key Work
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajay3007&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+### 🔹 **High-Performance URL Filtering & DPI Engine (SASE Platform) — Jio**
+📌 Built a **40+ Gbps packet processing engine** using **C/C++**, **DPDK**, **Hyperscan**, **ENEA SDK**  
+📌 Achieved **8.5M packets/sec** and **25 Lakh TPS for SIP + 20 Lakh TPS for HTTP**  
+📌 Designed distributed sync using Kafka + Aerospike  
+📌 Tuned DPDK pipelines (Rx/Tx queues, workers, flow rules, mempools) for ultra-low latency  
+📌 Conducted high-load benchmarking & introduced performance-profiling architecture  
+📌 Built a multi-node malicious URL classification system (bitmask-based)
 
-[![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ajay3007&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+Tech: **C/C++, DPDK, Hyperscan, Kafka, Aerospike, Wireshark, pktgen**  
+
+---
+
+### 🔹 **Distributed Redis Cluster Management System — Jio**
+📌 Built automated Redis cluster scanner + rule-engine-based cleanup  
+📌 Implemented hash-slot–aware parallelism → **3x faster cluster operations**  
+📌 Ensured consistency across distributed nodes  
+Tech: **Java, Redis Cluster, Linux**  
+
+---
+
+### 🔹 **IoT SCEF Node (3GPP-based)**  
+📌 Built features enabling secure exposure of IoT network services  
+📌 Optimized caching → **40% throughput increase**, **25% latency reduction**  
+📌 Developed HA backup/restore across cluster nodes  
+📌 Performed load testing under 4G LTE–simulated traffic  
+Tech: **Java, Redis, Jetty, 4G LTE**  
+
+---
+
+### 🔹 **AR + CV Application (Samsung Internship)**  
+📌 Real-time facial gesture + emotion detection using ML  
+📌 MediaPipe-style face mesh  
+📌 Achieved **85% accuracy**, optimized for mobile  
+Tech: **Android, AR, ML, Mediapipe concepts**  
+
+---
+
+## 🏆 Achievements
+- 📝 **2 Patent Applications Filed** (Jio Platforms):  
+  - Bitmask-based malicious URL classification system  
+  - Distributed Redis KeyDB Cluster Management Framework  
+- 🥇 **1st Rank — Telescon’18**, IIT (BHU)  
+- 👨‍🏫 Mentored teams in Robotron’18 & Telescon’18  
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ajay3007&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajay3007&layout=compact&theme=tokyonight" height="170" />
+</div>
+
+---
+
+## 🔗 Connect With Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/ajay-gupt">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066FF,100:00CCFF&height=150&section=footer"/>
+</div>
 
