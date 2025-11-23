@@ -3,21 +3,38 @@
 Results-driven Software Engineer with 4+ years of experience designing and optimizing **high-performance distributed** and backend systems using **C, C++, Java, and DPDK**. Skilled in building low-latency microservices and scalable data pipelines leveraging **Redis, Kafka, and Aerospike**, achieving measurable throughput and latency improvements across production-grade platforms. Strong foundation in **system design, concurrency, and performance optimization**, with a proven record of delivering fault-tolerant, large-scale services.
 
 ***
+<p>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="Shell Script" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" alt="Kafka" width="55" height="55"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" alt="Redis" width="55" height="55"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/aerospike/aerospike-original.svg" alt="Aerospike" width="55" height="55"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" alt="REST APIs" width="55" height="55"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="55" height="55"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" width="55" height="55"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="55" height="55"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="55" height="55"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" alt="CI/CD" width="55" height="55"/>
+</p>
 
-🧰 Toolbox
+## 🛠️ Technical Skills
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C logo" width="50" height="50"> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++ logo" width="50" height="50"> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java logo" width="50" height="50"> 
-img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python logo" width="50" height="50"> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript logo" width="50" height="50"> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="Ubuntu logo" width="50" height="50"> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="MATLAB logo" width="50" height="50">  
-<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter logo" width="50" height="50"> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn logo" width="50" height="50"> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git logo" width="50" height="50"> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="GitHub logo" width="50" height="50"> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="VisualStudio logo" width="50" height="50">
+### **Programming**
+`C` · `C++` · `Java` · `Python` · `Shell` · `SQL`
+
+### **Technologies**
+`DPDK` · `Kafka` · `Redis Cluster` · `Aerospike`  
+`REST APIs` · `HTTP/HTTPS`
+
+### **Tools & Platforms**
+`Linux` · `Docker` · `Git` · `Kubernetes` · `Wireshark` · `CI/CD`
+
+### **Focus Areas**
+`Distributed Systems` · `System Design` · `Microservices` · `DSA`
+
 
 ***
 
