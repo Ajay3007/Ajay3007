@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 200 200">
+  <rect width="200" height="200" rx="24" fill="#111827"/>
+  <g transform="translate(18,18)" fill="none" stroke="#22C1C3" stroke-width="6" stroke-linecap="round">
+    <circle cx="40" cy="40" r="10" />
+    <circle cx="96" cy="40" r="10" />
+    <circle cx="40" cy="96" r="10" />
+    <circle cx="96" cy="96" r="10" />
+    <path d="M50 40 H86"/>
+    <path d="M40 50 V86"/>
+    <path d="M50 96 H86"/>
+    <path d="M96 50 V86"/>
+  </g>
+  <text x="100" y="176" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#22C1C3" font-weight="700" text-anchor="middle">VPP</text>
+</svg>

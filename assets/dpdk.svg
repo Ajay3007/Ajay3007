@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 200 200">
+  <rect width="200" height="200" rx="24" fill="#0B4DA1"/>
+  <g transform="translate(40,40)" fill="none" stroke="#fff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M20 60 L60 20 L100 60 L60 100 Z" fill="#fff"/>
+    <line x1="60" y1="20" x2="60" y2="-6" stroke="#fff" stroke-width="6" stroke-linecap="round"/>
+    <line x1="100" y1="60" x2="126" y2="60" stroke="#fff" stroke-width="6" stroke-linecap="round"/>
+    <line x1="60" y1="100" x2="60" y2="126" stroke="#fff" stroke-width="6" stroke-linecap="round"/>
+    <line x1="20" y1="60" x2="-6" y2="60" stroke="#fff" stroke-width="6" stroke-linecap="round"/>
+  </g>
+  <text x="100" y="176" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#ffffff" font-weight="700" text-anchor="middle">DPDK</text>
+</svg>
