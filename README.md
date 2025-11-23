@@ -119,6 +119,15 @@ Tech: **Android, AR, ML, Mediapipe concepts**
   </a>
 </p>
 
+### 📄 Resume
+
+<p align="left">
+  <a href="./assets/Ajay_Gupt_Resume.pdf" target="_blank" rel="noopener noreferrer">
+    <img src="./assets/pdf-icon.svg" width="22" style="vertical-align:middle; margin-right:8px;" alt="PDF icon"/>
+    Resume (PDF)
+  </a>
+</p>
+
 ---
 
 <div align="center">
