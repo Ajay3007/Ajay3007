@@ -42,7 +42,7 @@
 | Area | Details |
 |------|---------|
 | 🔬 **Research** | VPP (Vector Packet Processing) & Linux networking internals |
-| ⚙️ **Learning** | Modern C++ (C++20/23), eBPF, XDP |
+| ⚙️ **Learning** | Modern C++ (C++20/23), AI Integration & Orchestration |
 | 🛠️ **Building** | High-performance networking tools |
 
 </div>
@@ -221,7 +221,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ajay3007&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ajay3007&theme=tokyonight&no-frame=false&margin-w=8&row=1&column=6" alt="Trophies" />
 </div>
 
 <br/>
@@ -239,8 +239,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-Ajay%20Kumar%20Gupt-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="mailto:ajay3007gupt@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ajay3007gupt%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:ajaymaddheshiya33@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ajaymaddheshiya33%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
 
