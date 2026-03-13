@@ -1,10 +1,10 @@
 <!-- HEADER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066FF,100:00CCFF&height=220&section=header&text=Ajay%20Kumar%20Gupt%20👋&fontSize=48&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=Software%20Engineer%20%7C%20Backend%20%7C%20Distributed%20Systems%20%7C%20DPDK%20%26%20VPP&descAlignY=58&descSize=18&descColor=e0f0ff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066FF,100:00CCFF&height=220&section=header&text=Ajay%20Kumar%20Gupt&fontSize=48&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=Software%20Engineer%20%7C%20Backend%20%7C%20Distributed%20Systems%20%7C%20DPDK%20%7C%20VPP&descAlignY=58&descSize=18&descColor=e0f0ff" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00AAFF&center=true&vCenter=true&multiline=false&width=600&lines=40%2B+Gbps+Packet+Processing+Engineer;Distributed+Systems+%7C+DPDK+%26+VPP+%7C+Kafka;Low-Latency+Backend+Architect;IIT+(BHU)+%7C+Jio+Platforms+Ltd." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00AAFF&center=true&vCenter=true&width=600&lines=40%2B+Gbps+Packet+Processing+Engineer;Distributed+Systems+%7C+DPDK+%26+VPP+%7C+Kafka;Low-Latency+Backend+Architect;IIT+%28BHU%29+%7C+Jio+Platforms+Ltd." alt="Typing SVG" />
 </div>
 
 <br/>
